@@ -389,6 +389,7 @@ body {
             opacity: .8;
             &:hover {
                 opacity: 1;
+                transition: 0.4s;
             }
             &::before {
                 content: '';
